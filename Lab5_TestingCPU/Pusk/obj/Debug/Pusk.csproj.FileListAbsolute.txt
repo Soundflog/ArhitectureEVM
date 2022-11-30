@@ -1,0 +1,7 @@
+E:\HomeWork & ext\Arhitecture labs\Lab5_TestingCPU\Pusk\bin\Debug\Pusk.exe
+E:\HomeWork & ext\Arhitecture labs\Lab5_TestingCPU\Pusk\bin\Debug\Pusk.pdb
+E:\HomeWork & ext\Arhitecture labs\Lab5_TestingCPU\Pusk\obj\Debug\Pusk.csproj.AssemblyReference.cache
+E:\HomeWork & ext\Arhitecture labs\Lab5_TestingCPU\Pusk\obj\Debug\Pusk.csproj.SuggestedBindingRedirects.cache
+E:\HomeWork & ext\Arhitecture labs\Lab5_TestingCPU\Pusk\obj\Debug\Pusk.csproj.CoreCompileInputs.cache
+E:\HomeWork & ext\Arhitecture labs\Lab5_TestingCPU\Pusk\obj\Debug\Pusk.exe
+E:\HomeWork & ext\Arhitecture labs\Lab5_TestingCPU\Pusk\obj\Debug\Pusk.pdb

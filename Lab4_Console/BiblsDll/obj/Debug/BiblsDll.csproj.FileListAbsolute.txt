@@ -1,0 +1,6 @@
+E:\HomeWork & ext\Arhitecture labs\Lab4_Console\BiblsDll\bin\Debug\BiblsDll.dll
+E:\HomeWork & ext\Arhitecture labs\Lab4_Console\BiblsDll\bin\Debug\BiblsDll.pdb
+E:\HomeWork & ext\Arhitecture labs\Lab4_Console\BiblsDll\obj\Debug\BiblsDll.csproj.AssemblyReference.cache
+E:\HomeWork & ext\Arhitecture labs\Lab4_Console\BiblsDll\obj\Debug\BiblsDll.csproj.CoreCompileInputs.cache
+E:\HomeWork & ext\Arhitecture labs\Lab4_Console\BiblsDll\obj\Debug\BiblsDll.dll
+E:\HomeWork & ext\Arhitecture labs\Lab4_Console\BiblsDll\obj\Debug\BiblsDll.pdb

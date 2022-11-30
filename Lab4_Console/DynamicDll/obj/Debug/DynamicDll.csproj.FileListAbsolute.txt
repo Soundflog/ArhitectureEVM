@@ -1,0 +1,6 @@
+E:\HomeWork & ext\Arhitecture labs\Lab4_Console\DynamicDll\bin\Debug\DynamicDll.dll
+E:\HomeWork & ext\Arhitecture labs\Lab4_Console\DynamicDll\bin\Debug\DynamicDll.pdb
+E:\HomeWork & ext\Arhitecture labs\Lab4_Console\DynamicDll\obj\Debug\DynamicDll.csproj.AssemblyReference.cache
+E:\HomeWork & ext\Arhitecture labs\Lab4_Console\DynamicDll\obj\Debug\DynamicDll.csproj.CoreCompileInputs.cache
+E:\HomeWork & ext\Arhitecture labs\Lab4_Console\DynamicDll\obj\Debug\DynamicDll.dll
+E:\HomeWork & ext\Arhitecture labs\Lab4_Console\DynamicDll\obj\Debug\DynamicDll.pdb
